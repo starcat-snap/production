@@ -1,0 +1,2 @@
+# production
+SnapAdmin production template
